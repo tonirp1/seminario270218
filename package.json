@@ -5,7 +5,7 @@
   "main": "helloworld.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "cross-env SPARK_TOKEN=Y2lzY29zcGFyazovL3VzL0FQUExJQ0FUSU9OL2ZhZjg4YTZkLWJkZDEtNDZlZS05NGM4LWU2N2EzN2Q1NmIxYg PUBLIC_URL=https://seminar270218.herokuapp.com SECRET=empty node helloworld.js" 
+    "start": "cross-env SPARK_TOKEN=NDI3MWJmMmQtNTNhNC00N2Q2LWI1ZWMtY2EzYmFiYzRjNzkzMDY1YjUxNjItZGI5 PUBLIC_URL=https://seminar270218.herokuapp.com SECRET=empty node helloworld.js" 
   },
   "keywords": [
     "ciscospark",
